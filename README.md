@@ -14,5 +14,5 @@
 ![Status](https://github-readme-stats.vercel.app/api?username=sarahalves93&show_icons=true&theme=dracula)
 
 ## 📫 Como me encontrar
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/sarahmalves)  
+- [LinkedIn](https://linkedin.com/in/sarahmalves)  
 - E-mail: sarahmalves@live.com
