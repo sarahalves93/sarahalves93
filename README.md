@@ -17,16 +17,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarahalves93/sarahalves93/output/pacman-contribution-graph.svg">
  </picture>
 
-###
----
-
-
-
 ## ⭐ GitHub Stats
 <a href="https://github.com/eduardavieira-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahalves93&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahalves93&layout=compact&langs_count=6&theme=radical"/>
-
 
 ## Tecnologias e linguagens 💻
 
